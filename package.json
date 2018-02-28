@@ -1,0 +1,24 @@
+{
+  "name": "snyk-issue-135-demo",
+  "version": "1.0.0",
+  "description": "Demo of issue 135",
+  "main": "index.js",
+  "scripts": {
+    "test": "snyk test"
+  },
+  "repository": "git+ssh://git@github.com/edrpls/snyk-issue-135.git",
+  "keywords": [
+    "snyk",
+    "issue",
+    "demo"
+  ],
+  "author": "edrpls",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edrpls/snyk-issue-135/issues"
+  },
+  "homepage": "https://github.com/edrpls/snyk-issue-135#readme",
+  "dependencies": {
+    "babel-plugin-transform-es2015-modules-commonjs": "6.24.1"
+  }
+}
